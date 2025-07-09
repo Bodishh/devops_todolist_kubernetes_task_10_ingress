@@ -14,4 +14,3 @@ spec:
             name: todoapp
             port:
               number: 80
-
